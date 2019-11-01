@@ -10,8 +10,12 @@ npm install -g vuepress
 
 ## 运行
 
+```bash
 npm run dev
+```
 
 ## 发布
 
+```bash
 npm run build
+```
